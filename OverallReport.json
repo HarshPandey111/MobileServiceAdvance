@@ -1,0 +1,78 @@
+{
+  "Code Analysis": {
+    "PMD": {
+      "PMD": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  "Structural": {
+    "JUnit": {
+      "MobileServiceTest": [
+        4,
+        4,
+        0
+      ]
+    },
+    "Model": {
+      "ServiceReport": [
+        10,
+        0,
+        10
+      ]
+    },
+    "Service": {
+      "MobileServiceImpl": [
+        5,
+        5,
+        0
+      ]
+    },
+    "Exception": {
+      "MobileServiceException": [
+        2,
+        2,
+        0
+      ]
+    },
+    "Validator": {
+      "Validator": [
+        6,
+        6,
+        0
+      ]
+    }
+  },
+  "Logical": {
+    "Logging": {
+      "Logging": [
+        3,
+        0,
+        3
+      ]
+    },
+    "JUnit": {
+      "MobileServiceTest": [
+        6,
+        6,
+        0
+      ]
+    },
+    "Service": {
+      "MobileServiceImpl": [
+        11,
+        0,
+        11
+      ]
+    },
+    "Validator": {
+      "Validator": [
+        26,
+        0,
+        26
+      ]
+    }
+  }
+}
